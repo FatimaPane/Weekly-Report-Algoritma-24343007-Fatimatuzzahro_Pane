@@ -1,0 +1,15 @@
+1.#include <stdio.h>
+  ➥ Baris ini merupakan preprocessor directive yang menyertakan file header stdio.h (Standard Input/Output Header).
+
+2. int main()
+  ➥ Tipe data int menandakan bahwa fungsi ini akan mengembalikan nilai berupa bilangan bulat.
+
+3. Blok {}
+  ➥Tanda kurung kurawal {} mendefinisikan batas awal dan akhir dari fungsi main().
+
+4. printf("Hello World!\n");
+  ➥ Fungsi printf() digunakan untuk mencetak teks ke layar.
+
+5. return 0;
+  ➥ Menunjukkan bahwa fungsi main() mengembalikan nilai 0 ke sistem operasi,
+   nilai 0 umumnya digunakan untuk menunjukkan bahwa program berjalan tanpa error.
